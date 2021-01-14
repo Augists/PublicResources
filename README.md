@@ -7,7 +7,7 @@
 
 ## 字体截图
 
-![](https://gitee.com/Augists/oss/raw/master/uPic/QVuQPv.png)
+![](https://gitee.com/Augists/oss/raw/master/uPic/DQiAAL.png)
 
 ## 字体用途
 

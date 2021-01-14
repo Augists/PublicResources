@@ -7,7 +7,7 @@
 
 ## 字体截图
 
-![](https://gitee.com/Augists/oss/raw/master/uPic/DQiAAL.png)
+![font](https://i.loli.net/2021/01/14/uUhnLIJN5lbC4Gj.png)
 
 ## 字体用途
 

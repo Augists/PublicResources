@@ -1,0 +1,3 @@
+[submodule "ServiceLogosEn"]
+	path = ServiceLogosEn
+	url = git@github.com:Augists/ServiceLogosEn.git

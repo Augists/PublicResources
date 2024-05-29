@@ -1,3 +1,21 @@
 [submodule "ServiceLogosEn"]
 	path = ServiceLogosEn
 	url = git@github.com:Augists/ServiceLogosEn.git
+[submodule "LaTeXThesis4SSDUT"]
+	path = LaTeXThesis4SSDUT
+	url = git@github.com:Augists/LaTeXThesis4SSDUT.git
+[submodule "PCsetup"]
+	path = PCsetup
+	url = git@github.com:Augists/PCsetup.git
+[submodule "ZDCZ-vimrc"]
+	path = ZDCZ-vimrc
+	url = git@github.com:Augists/ZDCZ-vimrc.git
+[submodule "openCase"]
+	path = openCase
+	url = git@github.com:Augists/openCase.git
+[submodule "VapourNvim"]
+	path = VapourNvim
+	url = git@github.com:Augists/VapourNvim.git
+[submodule "RSSforSSDUT"]
+	path = RSSforSSDUT
+	url = git@github.com:Augists/RSSforSSDUT.git
